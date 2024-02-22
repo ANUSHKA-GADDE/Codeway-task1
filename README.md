@@ -51,13 +51,13 @@
         <li>Hard working</tr>
         <li>fast learning</li>
         </ul>
-        <h2 style= "color:purple",font-family:monospace>HOBBIES</H2>
+        <h2 style= "color:purple",font-family:monospace>HOBBIES<hr></H2>
         <ul>
         <li>researching</li>
         <li>learning</li>
         <li>listening to music</li>
        </ul>
-       <h2 style= "color:purple",font-family:monospace>LANGUAGES</h2>
+       <h2 style= "color:purple",font-family:monospace>LANGUAGES<hr></h2>
        <ul>
        <li>python</li>
        <li>C</li>
